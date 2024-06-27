@@ -1,0 +1,21 @@
+body{
+    background-color: blanchedalmond;
+}
+span{
+    padding-left: 1rem;
+}
+button{
+    border:double ;
+    border-radius: 10px;
+    background-color: transparent;
+    margin: 1rem ;
+}
+.inc-b{
+    border-color: green;
+}
+.dec-b{
+    border-color: blue;
+}
+.del-b{
+    border-color: red;
+}
